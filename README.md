@@ -1,6 +1,6 @@
 
 
-## Hey, you found me! I am a self-taught Web3 Full Stack Blockchain Developer, building scalable & pixel perfect Dapps and other Web3 solutions.
+## Hey, you found me! I am a self-taught Full Stack Blockchain / Web3 Developer, building scalable & pixel perfect Dapps, reliable smart contracts and other Web3 solutions.
 
 
 ### ⚙ Techs used: <a href="https://www.typescriptlang.org/">Typescript,</a> <a href="https://pt-br.reactjs.org/"> React,</a> <a         href="https://nodejs.org/en/"> NodeJS</a> and <a href="https://soliditylang.org"> Solidity</a>.
