@@ -1,6 +1,6 @@
 
 
-## Hey, you found me! My name is Augusto Leite and, I am a self-taught Web3 Full Stack Blockchain Developer working freelance, building scalable & pixel perfect Dapps and other Web3 solutions.
+## Hey, you found me! I am a self-taught Web3 Full Stack Blockchain Developer, building scalable & pixel perfect Dapps and other Web3 solutions.
 
 
 ### ⚙ Techs used: <a href="https://www.typescriptlang.org/">Typescript,</a> <a href="https://pt-br.reactjs.org/"> React,</a> <a         href="https://nodejs.org/en/"> NodeJS</a> and <a href="https://soliditylang.org"> Solidity</a>.
