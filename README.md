@@ -7,6 +7,7 @@
 
 ### 📫 Reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin</a>.
 
+### 🌱 Former github: <a href="https://github.com/augustorl> @augustorl </a>
     
 
 <!--
